@@ -1,0 +1,216 @@
+<sequence-diagram version="1.0.4" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="net.daum.view.program.grep" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/program/grep.java" binary="false" label="grep" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="262" width="0" x="0" y="91"/>    
+    </execution>    
+    <execution id="2">      
+      <position height="199" width="0" x="0" y="133"/>    
+    </execution>  
+  </object>  
+  <object id="2" language="java" name="net.daum.view.driver.DriverExecuterImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/driver/DriverExecuterImpl.java" binary="false" 
+    label="driverExecuterImpl" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="148" width="0" x="0" y="163"/>    
+    </execution>  
+  </object>  
+  <object id="3" language="java" name="net.daum.view.driver.MapRedDriverImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/driver/MapRedDriverImpl.java" binary="false" 
+    label="mapRedDriverImpl" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="100" width="0" x="0" y="190"/>    
+    </execution>    
+    <execution id="2">      
+      <position height="21" width="0" x="0" y="248"/>    
+    </execution>  
+  </object>  
+  <object id="4" language="java" name="net.daum.view.mapred.Map" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/mapred/Map.java" binary="false" label="map" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="428" y="0"/>    
+    <execution id="1">      
+      <position height="730" width="0" x="0" y="97"/>    
+    </execution>    
+    <execution id="2">      
+      <position height="21" width="0" x="0" y="139"/>    
+    </execution>    
+    <execution id="3">      
+      <position height="595" width="0" x="0" y="211"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="0" x="0" y="764"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="21" width="7" x="446" y="699"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="net.daum.view.worker.ParserImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/worker/ParserImpl.java" binary="false" label="parserImpl" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="498" width="0" x="0" y="243"/>    
+    </execution>    
+    <execution id="2">      
+      <position height="21" width="7" x="551" y="297"/>    
+    </execution>    
+    <execution id="3">      
+      <position height="21" width="7" x="551" y="602"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="0" x="0" y="669"/>    
+    </execution>  
+  </object>  
+  <object id="6" language="java" name="net.daum.view.worker.ConfigurationReaderImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/worker/ConfigurationReaderImpl.java" binary="false" 
+    label="configurationReaderImpl" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="63" width="0" x="0" y="276"/>    
+    </execution>  
+  </object>  
+  <object id="7" language="java" name="net.daum.view.worker.LogCleanerImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/worker/LogCleanerImpl.java" binary="false" label="logCleanerImpl" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="283" width="0" x="0" y="361"/>    
+    </execution>    
+    <execution id="2">      
+      <position height="21" width="7" x="837" y="401"/>    
+    </execution>    
+    <execution id="3">      
+      <position height="117" width="0" x="0" y="482"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="7" x="840" y="536"/>    
+    </execution>  
+  </object>  
+  <object id="8" language="java" name="net.daum.view.worker.LogCleanerDaoImpl" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/worker/LogCleanerDaoImpl.java" binary="false" 
+    label="logCleanerDaoImpl" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="63" width="0" x="0" y="380"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="net.daum.view.worker.CatergoryConfigurationReaderImpl" 
+    project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/worker/CatergoryConfigurationReaderImpl.java" binary="false" 
+    label="catergoryConfigurationReaderImpl" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="1">      
+      <position height="63" width="0" x="0" y="515"/>    
+    </execution>  
+  </object>  
+  <object id="10" language="java" name="net.daum.view.mapred.Reduce" project="ViewLogDataAnalyzer_v2" 
+    file="/ViewLogDataAnalyzer_v2/src/net/daum/view/mapred/Reduce.java" binary="false" label="reduce" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="2">      
+      <position height="149" width="0" x="0" y="117"/>    
+    </execution>    
+    <execution id="3">      
+      <position height="21" width="0" x="0" y="224"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="0" x="0" y="159"/>    
+    </execution>  
+  </object>  
+  <message operation="main(java.lang.String[]):void">    
+    <end type="SOURCE" nodeId="1" executionId="0"/>    
+    <end type="TARGET" nodeId="1" executionId="1"/>  
+  </message>  
+  <message operation="execute(java.lang.String[]):void">    
+    <end type="SOURCE" nodeId="1" executionId="1"/>    
+    <end type="TARGET" nodeId="2" executionId="0"/>  
+  </message>  
+  <message operation="runDriver(java.lang.String[]):void">    
+    <end type="SOURCE" nodeId="2" executionId="0"/>    
+    <end type="TARGET" nodeId="3" executionId="0"/>  
+  </message>  
+  <message operation="runJob(org.apache.hadoop.mapred.JobConf):void">    
+    <end type="SOURCE" nodeId="3" executionId="0"/>    
+    <end type="TARGET" nodeId="3" executionId="1"/>  
+  </message>  
+  <message operation="configure(org.apache.hadoop.mapred.JobConf):void">    
+    <end type="SOURCE" nodeId="4" executionId="0"/>    
+    <end type="TARGET" nodeId="4" executionId="1"/>  
+  </message>  
+  <message 
+    operation="map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapred.OutputCollector&lt;Text,IntWritable&gt;,org.apache.hadoop.mapred.Reporter):void">    
+    <end type="SOURCE" nodeId="4" executionId="0"/>    
+    <end type="TARGET" nodeId="4" executionId="2"/>  
+  </message>  
+  <message operation="parseData(net.daum.view.model.ViewLog,java.lang.String):org.apache.hadoop.io.Text">    
+    <end type="SOURCE" nodeId="4" executionId="2"/>    
+    <end type="TARGET" nodeId="5" executionId="0"/>  
+  </message>  
+  <message operation="exportIntermediateData(org.apache.hadoop.mapred.OutputCollector&lt;Text,IntWritable&gt;):void" 
+    x="461" y="728">    
+    <end type="SOURCE" nodeId="4" executionId="2"/>    
+    <end type="TARGET" nodeId="4" executionId="3"/>  
+  </message>  
+  <message operation="readConfiguration(java.lang.String,java.lang.String):java.lang.String">    
+    <end type="SOURCE" nodeId="5" executionId="0"/>    
+    <end type="TARGET" nodeId="6" executionId="0"/>  
+  </message>  
+  <message operation="cleanValue(net.daum.view.model.ViewLog):net.daum.view.model.ViewLog">    
+    <end type="SOURCE" nodeId="5" executionId="0"/>    
+    <end type="TARGET" nodeId="7" executionId="0"/>  
+  </message>  
+  <message operation="parse(net.daum.view.model.ViewLog,java.lang.String):org.apache.hadoop.io.Text">    
+    <end type="SOURCE" nodeId="5" executionId="0"/>    
+    <end type="TARGET" nodeId="5" executionId="3"/>  
+  </message>  
+  <message>    
+    <end type="SOURCE" nodeId="5" executionId="0"/>    
+    <end type="TARGET" nodeId="4" executionId="4"/>  
+  </message>  
+  <message>    
+    <end type="SOURCE" nodeId="6" executionId="0"/>    
+    <end type="TARGET" nodeId="5" executionId="1"/>  
+  </message>  
+  <message operation="readFile(java.lang.String,java.lang.String):java.util.ArrayList&lt;String&gt;">    
+    <end type="SOURCE" nodeId="7" executionId="0"/>    
+    <end type="TARGET" nodeId="8" executionId="0"/>  
+  </message>  
+  <message operation="rearrangeLine(net.daum.view.model.ViewLog):boolean">    
+    <end type="SOURCE" nodeId="7" executionId="0"/>    
+    <end type="TARGET" nodeId="7" executionId="2"/>  
+  </message>  
+  <message>    
+    <end type="SOURCE" nodeId="7" executionId="0"/>    
+    <end type="TARGET" nodeId="5" executionId="2"/>  
+  </message>  
+  <message 
+    operation="readCategoryConfiguration(net.daum.view.model.ViewCategory,java.lang.String,java.lang.String):boolean">    
+    <end type="SOURCE" nodeId="7" executionId="2"/>    
+    <end type="TARGET" nodeId="9" executionId="0"/>  
+  </message>  
+  <message>    
+    <end type="SOURCE" nodeId="8" executionId="0"/>    
+    <end type="TARGET" nodeId="7" executionId="1"/>  
+  </message>  
+  <message>    
+    <end type="SOURCE" nodeId="9" executionId="0"/>    
+    <end type="TARGET" nodeId="7" executionId="3"/>  
+  </message>  
+  <message 
+    operation="reduce(K2,java.util.Iterator&lt;V2&gt;,org.apache.hadoop.mapred.OutputCollector&lt;K3,V3&gt;,org.apache.hadoop.mapred.Reporter):void" 
+    x="1184" y="122">    
+    <end type="SOURCE" nodeId="10" executionId="0"/>    
+    <end type="TARGET" nodeId="10" executionId="2"/>  
+  </message>  
+  <message 
+    operation="exportFinalOutput(org.apache.hadoop.io.Text,org.apache.hadoop.mapred.OutputCollector&lt;Text,IntWritable&gt;):void" 
+    x="1188" y="189">    
+    <end type="SOURCE" nodeId="10" executionId="0"/>    
+    <end type="TARGET" nodeId="10" executionId="1"/>  
+  </message>
+</sequence-diagram>
